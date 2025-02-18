@@ -21,5 +21,5 @@ rev = "3910637893b6aed4af73b19a2c429ef717e1ee26"
 
 [dependencies.AptosFramework]
 git = "https://github.com/movementlabsxyz/aptos-core.git"
-subdir = "aptos"
-rev = "devnet"
+subdir = "aptos-move/framework/aptos-framework"
+rev = "movement"
